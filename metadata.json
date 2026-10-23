@@ -1,0 +1,6 @@
+{
+  "name": "CalApprove — Calendar Approval Booking App",
+  "description": "Interactive appointment request system with visitor email verification, bot honeypot protection, owner approval workflow, and Google Calendar conflict detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
